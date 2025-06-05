@@ -1,7 +1,7 @@
 # SemCms <= 5.0 has a SQL Injection Vulnerability
 ##### Vulnerability Location: SEMCMS_Link.php
 ##### Affected Range: SemCms <= 5.0
-##### Vulnerability Cause: SemCms <= v5.0 was discovered to contain a SQL injection vulnerability.This allows an attacker to execute arbitrary code via the pid parameter in the SEMCMS_Link.php component.
+##### Vulnerability Cause: SemCms <= v5.0 was discovered to contain a SQL injection vulnerability.This allows an attacker to execute arbitrary code via the ID parameter in the SEMCMS_Link.php component.
 ##### Vulnerability Impact: Obtain database access rights, and even DBA permissions.
 ##### Link:https://www.sem-cms.com/
 
