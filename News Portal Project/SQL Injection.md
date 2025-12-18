@@ -1,7 +1,7 @@
 # News Portal Project V4.1 SQL Injection Vulnerability
 ##### Vulnerability Location: /admin/check_availablity.php
 ##### Affected Range: News Portal Project V4.1
-##### Vulnerability Cause: database_admin.php contains a serious security vulnerability. The manipulation of the argument username leads to sql injection. The attack can be launched remotely.
+##### Vulnerability Cause: check_availablity.php contains a serious security vulnerability. The manipulation of the argument username leads to sql injection. The attack can be launched remotely.
 ##### Vulnerability Impact: Obtain database access rights, and even DBA permissions;
 ##### Link: https://phpgurukul.com/news-portal-project-in-php-and-mysql/
 # Vulnerability recurrence
