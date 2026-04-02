@@ -42,4 +42,4 @@ The argument: emailcont in /forgot-password.php:
 
 <img width="1255" height="434" alt="image" src="https://github.com/user-attachments/assets/d01f1800-4529-4a5a-b5df-6fc1f7ee59a3" />
 
-Directly inserting the user-provided aptnumber into the SQL statement leads to the occurrence of SQL injection vulnerability.
+Directly inserting the user-provided contactno into the SQL statement leads to the occurrence of SQL injection vulnerability.
