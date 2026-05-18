@@ -1,6 +1,6 @@
 # SQL Injection vulnerability
 ##### Vulnerability Location: RecordStateMapper.xml
-##### Affected Range: Crocus V1.3.8.4 
+##### Affected Range: Crocus V1.3.44
 ##### Vulnerability Cause: The RecordStateMapper.xml file contains an SQL injection vulnerability, specifically an orderby injection vulnerability, which uses ${}.
 ##### Vulnerability Impact: Obtain database access rights, and even DBA permissions; Obtain data from other databases; Stealing users' confidential information includes accounts, personal private information, transaction information, etc.
 ##### Link: https://cn.streamax.com/
