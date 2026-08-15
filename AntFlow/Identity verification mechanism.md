@@ -3,7 +3,7 @@
 ##### Affected Range: AntFlow V2.0.0
 ##### Vulnerability Cause: JiMuMDCCommonsRequestLoggingFilter.java retrieves the userid from the request header as the core of the identity verification mechanism, allowing attackers to forge any user identity credential information, thereby causing sensitive information leakage.
 ##### Vulnerability Impact: Any user takeover
-##### Link: [https://www.mccms.cn/](https://gitee.com/tylerzhou/Antflow/)
+##### Link: https://gitee.com/tylerzhou/Antflow/
 # Vulnerability recurrence
 
 The following test has been verified by the official testing station: https://antflow.top/admin/#/login? redirect=/index
